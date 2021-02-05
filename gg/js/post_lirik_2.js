@@ -1,4 +1,4 @@
-$(".sumberlirik").replaceWith('<span style="line-height:40px">Sumber Lirik : <a href="https://www.google.com/url?sa=t&url=https%3A%2F%2Fwww.musixmatch.com" rel="nofollow noopener" target="_blank" title="Musixmatch" style="cursor:none"><img src="https://hamdaniazzah.github.io/img/svg/musixmatch.svg" onContextMenu="return false"/></a></span>');
+$(".sumberlirik").replaceWith('<span style="line-height:40px">Sumber Lirik : <a href="https://www.google.com/url?sa=t&url=https%3A%2F%2Fwww.musixmatch.com" rel="nofollow noopener" target="_blank" title="Musixmatch" style="cursor:none"><img src="https://cdn.statically.io/img/g.hamdaniazzah.com/svg/musixmatch.svg" onContextMenu="return false"/></a></span>');
 
 $(".l3d_yt").each(function(){
   $(this).replaceWith('<div class="l3d_ytclass"><div class="yt_judul">Dengarkan di YouTube<a href="https://youtu.be/' + $(this).data("id") + '" rel="nofollow noopener" target="_blank"><span id="tau_tan"/></a></div><amp-youtube data-videoid="' + $(this).data("id") + '" layout="responsive" width="480" height="270" autoplay></amp-youtube></div>')})

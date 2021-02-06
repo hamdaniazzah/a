@@ -3,6 +3,5 @@ l3file("https://cdn.statically.io/gh/hamdaniazzah/a/main/gg/js/post_1.min.js", "
 l3file("https://cdn.ampproject.org/v0/amp-youtube-0.1.js", "js")
 l3file("https://cdn.ampproject.org/v0/amp-instagram-0.1.js", "js")
 l3file("https://cdn.ampproject.org/v0/amp-iframe-0.1.js", "js")
-l3file("https://cdn.ampproject.org/v0/amp-ad-0.1.js", "js")
 l3file("https://cdn.ampproject.org/v0/amp-facebook-like-0.1.js", "js")
 l3file("https://cdn.ampproject.org/v0/amp-social-share-0.1.js", "js")
